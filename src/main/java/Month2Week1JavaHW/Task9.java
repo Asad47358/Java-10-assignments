@@ -18,6 +18,6 @@ public class Task9 {
             }
         }
 
-        System.out.println("Second highest number is: " + secondLargest);
+        System.out.println("Second Largest number is: " + secondLargest);
     }
 }

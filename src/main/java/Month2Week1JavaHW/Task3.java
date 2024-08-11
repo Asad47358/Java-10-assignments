@@ -9,8 +9,8 @@ public class Task3 {
                 {45,5,20,1,72,13,100}
         };
         System.out.println("This is the Even Numbers:");
-        for(int r=0; r<3; r++){
-            for (int c=0; c<7; c++){
+        for(int r=0; r<OddEven.length; r++){
+            for (int c=0; c<OddEven[r].length; c++){
 
                 if(OddEven[r][c]%2==0){
 
